@@ -1,1 +1,3 @@
-# notes
+# Notes
+
+development notes and references
